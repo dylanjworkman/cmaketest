@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\GameEngineDev\cmaketest\build\CMakeFiles\68055977b132bfd08ac003c5577cddaf\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{87F075B6-B976-31F7-A9BA-85EC73606302}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
